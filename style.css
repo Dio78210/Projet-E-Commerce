@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*navbar*/
+
+.nav-item{
+    display: flex;
+    justify-content: center;
+}
+
+
+/*Bouton genre*/
+
+
+.genre{
+    background-color: gray;
+    padding-top: 20px;
+}
+
+
+.reset .btn{
+    width: 5rem ;
+    height: 2rem;
+    border-radius: 15px;
+    margin-bottom: 8px;
+    margin-top: 10px;
+    background-color: rgb(46, 69, 217);
+}
+
+#btn{
+    color: black;
+}
+
+
+
+#aventure{
+    padding: 0;
+    background-image: url(image/aventure.png);
+    background-size: cover;
+    height: 8rem;
+    color: rgb(220, 220, 9);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 1.3em;
+    text-shadow: black 4px 6px;
+    border-radius: 40px;
+}
+
+#combat{
+    padding: 0;
+    background-image: url(image/combat.png);
+    background-size: cover;
+    height: 8rem;
+    color: rgb(220, 220, 9);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 1.3em;
+    text-shadow: black 4px 6px;
+    border-radius: 40px;
+
+}
+
+#fps{
+    padding: 0;
+    background-image: url(image/fps.jpg);
+    background-size: cover;
+    height: 8rem;
+    color: rgb(220, 220, 9);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 1.3em;
+    text-shadow: black 4px 6px;
+    border-radius: 40px;
+
+}
+
+#sport{
+    padding: 0;
+    background-image: url(image/sport.jpg);
+    background-size: cover;
+    height: 8rem;
+    color: rgb(220, 220, 9);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 1.3em;
+    text-shadow: black 4px 6px;
+    border-radius: 40px;
+
+}
+
+
+
+/*css benoit*/
+h2 {
+    text-align: center;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 650px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.buttonDetails {
+    width: 60%;
+    margin: 2%;
+}
+
+.buttonAchat {
+    width: 60%;
+    align-items: flex-end;
+}
+
+h3 + p {
+    text-align: left;
+    margin: 5% 0;
+}
+
+img {
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.507);
+    border-radius: 10px;
+}
+
+/* formulaire de contact*/
+
+#formulaire{
+    margin: auto;
+    width: 60%;
+    padding-bottom: 3%;
+    margin-top: 50px;
+}
+
+#formulaire p{
+    text-align: center;
+}
+
+/*footer*/
+
+h3{
+    color: rgb(0, 21, 255);
+    
+}
+h2{
+
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    text-decoration: underline crimson 2px solid;
+}
+
+footer {
+    background-color: #000000;
+    padding: 40px 0px;
+}
+
+footer ul li {
+    padding: 10px 0px;
+}
+
+.img{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+
+.bi{
+
+    padding: 10px;
+    
+
+}
+
+.adress h2,
+.contact h2
+.social h2{
+    
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    display: block;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+.adress li p,
+.contact li p,
+.social li a {
+    color: #FFF;
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+
+.adress,
+.contact,
+.social {
+    list-style: none;
+}
+
+i{
+    color: rgba(255, 3, 3, 0.765);
+    font-size: large;
+}
+
+
+.copiryght{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

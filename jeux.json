@@ -1,0 +1,148 @@
+{
+    "jeux": [
+        {
+            "id": 1,
+            "titre": "Assassin's Creed Valhalla",
+            "description": "Dans Assassin's Creed® Valhalla, vous incarnerez Eivor, redoutable Viking dont l'esprit a été bercé, dès sa plus tendre enfance, par de glorieux récits de combats. Vous explorerez un dynamique et splendide monde ouvert situé dans la violente Angleterre médiévale des Âges obscurs. Vous mènerez des raids contre vos ennemis, ferez prospérer votre peuple, et affermirez votre pouvoir politique en vue de vous assurer une place parmi les dieux, au Valhalla.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw69c3386c/images/high-res/107329.jpg",
+            "note": 8,
+            "genre": "Aventure",
+            "prix": 49.99
+        },
+        {
+            "id": 2,
+            "titre": "Uncharted 4 A Thief's End",
+            "description": "Alors qu’il semblait enfin rangé de la chasse au trésor et promis à une vie plus tranquille depuis trois ans, Nathan Drake voit l’aventure frapper à sa porte à nouveau lorsque son frère, Sam, refait surface. Quinze années après avoir disparu, ce dernier vient réclamer son aide et lui proposer une aventure qu’il ne peut refuser : la quête du trésor du Capitaine Henry Avery.",
+            "affiche": "https://m.media-amazon.com/images/I/91u-RP3+NTL._AC_SX425_.jpg",
+            "note": 9,
+            "genre": "Aventure",
+            "prix": 23.99
+        },
+        {
+            "id": 3,
+            "titre": "Horizon Forbidden West",
+            "description": "Explorez des terres lointaines, affrontez des machines encore plus imposantes et plus impressionnantes, et croisez la route de nouvelles tribus étonnantes sur votre chemin de retour vers le monde postapocalyptique et futuriste d'Horizon.",
+            "affiche": "https://m.media-amazon.com/images/I/8123PMgTudL._AC_SX425_.jpg",
+            "note": 9,
+            "genre": "Aventure",
+            "prix": 79.99
+        },
+        {
+            "id": 4,
+            "titre": "God Of War Ragnarok",
+            "description": "Embarquez pour un voyage épique et émouvant, alors que Kratos et Atreus luttent pour s'accrocher et lâcher prise. Au cœur des royaumes nordiques déchirés par la fureur des Ases, ils ont tout fait pour empêcher la fin des temps. Mais malgré leurs efforts, Fimbulvetr approche dangereusement. Observez leur dynamique père-fils évoluer alors qu'ils luttent pour leur survie : Atreus assoiffé d'une connaissance qui pourra l'aider à comprendre la prophétie de « Loki », et Kratos peinant à se défaire de son passé et à devenir le père dont son fils a besoin. Voyez comment le destin leur imposera un choix : la sûreté des neuf royaumes ou la leur. Et pendant ce temps, Asgard rassemble ses forces...",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw10d97d35/images/high-res/124189.jpg",
+            "note": 9,
+            "genre": "Aventure",
+            "prix": 79.99
+        },
+        {
+            "id": 5,
+            "titre": "Dragon Ball Z Kakarot",
+            "description": "Revivez l'histoire de Goku dans DRAGON BALL Z: KAKAROT comme jamais auparavant ! Menez des combats épiques et découvrez la vie dans le monde de DRAGON BALL Z : combattez, pêchez, mangez et entraînez-vous avec Goku. Au cours de votre progression dans l'histoire, explorez de nouvelles zones, vivez de nouvelles aventures et tissez des liens étroits avec d'autres héros de l'univers de DRAGON BALL Z. Le tout avec des graphismes et un gameplay amélioré et des temps de chargement plus rapide grâce aux consoles next-gen !",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwaa5d0da5/images/high-res/127934.jpg",
+            "note": 7,
+            "genre": "Combat",
+            "prix": 29.99
+        },
+        {
+            "id": 6,
+            "titre": "WWE 2K22",
+            "description": "Prenez les choses en main et contrôlez l'Univers de la WWE à votre guise. Combattez avec les Superstars et les légendes les plus réalistes de la WWE : The Rock, Sasha Banks, Goldberg, Brock Lesnar et bien plus encore. Revivez des moments clés de la carrière emblématique de Rey Mysterio dans le 2K Showcase et devenez une Superstar à coups de 619. Booyaka ! Prenez les décisions en tant que MG de la WWE dans Mon MG. Prenez les reines de Raw, SmackDown, NXT ou NXT UK et composez votre équipe ultime pour affronter les MG rivaux afin de construire la plus grande écurie de l'Univers WWE.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwa31a24d5/images/high-res/118411.jpg",
+            "note": 8,
+            "genre": "Combat",
+            "prix": 39.99
+        },
+        {
+            "id": 7,
+            "titre": "Override 2 Ultraman",
+            "description": "Sept ans après l’éradication des xénotypes qui avaient envahi la Terre, les méchas géants autrefois défenseurs de la planète en sont devenus des attractions, au sein de ligues mondiales de combat de méchas. Faites vos débuts en tant que pilote de ces anciennes armes de guerre, gravissez les échelons et représentez votre club avec une sélection soignée de nouveaux méchas et d’autres qui font leur grand retour, chacun avec leurs propres capacités, coups et attaques super-chargées. Profitez des campagne d’Override 2: Super Mech League en solo et en multijoueurs (jusqu’à 4 en local et en ligne), dans des niveaux situés aux quatre coins du monde.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwe0910439/images/high-res/visuels%20produits%20news/108629.jpg",
+            "note": 6,
+            "genre": "Combat",
+            "prix": 29.99
+        },
+        {
+            "id": 8,
+            "titre": "Tekken 7",
+            "description": "L'amour, la vengeance, la fierté. Chacun a ses raisons pour se battre. Nos valeurs sont ce qui nous définit, ce qui nous rend humains, quelles que soient nos forces et nos faiblesses. Il n'y a pas de mauvaises motivations, seulement le chemin que nous choisissons. Vivez la conclusion épique de la guerre du clan Mishima et découvrez les raisons qui ont motivé chacun dans leurs combats incessants. Alimenté par Unreal Engine 4, TEKKEN 7 offre des batailles cinématiques basées sur des histoires captivantes, et des duels extraordinaires à partager avec vos amis et vos rivaux grâce aux mécanismes de combats innovants.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw3e447670/images/high-res/75329.jpg",
+            "note": 7,
+            "genre": "Combat",
+            "prix": 19.99
+        },
+        {
+            "id": 9,
+            "titre": "Sniper Elite 5",
+            "description": "France, 1944. Dans le cadre d’une opération secrète des US Rangers visant à affaiblir les fortifications de la façade atlantique le long de la côte bretonne, le tireur d’élite Karl Fairburne collabore avec la résistance française. Ensemble, ils découvrent un projet nazi secret menaçant de mettre un terme à la guerre avant que les Alliés n’envahissent l’Europe : l’opération Kraken.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwfb0581b2/images/high-res/118189.jpg",
+            "note": 8,
+            "genre": "FPS",
+            "prix": 39.99
+        },
+        {
+            "id": 10,
+            "titre": "Destiny 2",
+            "description": "La dernière cité sur Terre n'a pas résisté au terrible assaut de la Légion rouge et de son imposant commandant, Ghaul, privant les Gardiens de leur pouvoir et forçant les survivants à fuir. Partez explorer des mondes mystérieux et inconnus de notre système solaire pour amasser des armes inédites et apprendre de nouvelles techniques de combat. Réunissez les héros de l'humanité et faites front commun pour vaincre la Légion rouge, défier Ghaul et reconquérir notre foyer.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw8f1bf93a/images/high-res/76977.jpg",
+            "note": 7,
+            "genre": "FPS",
+            "prix": 9.99
+        },
+        {
+            "id": 11,
+            "titre": "Call Of Duty Vanguard",
+            "description": "Vous serez sur tous les fronts : combat aérien au-dessus du Pacifique, parachutage au-dessus de la France, défendez Stalingrad avec la précision d'un tireur d'élite et faites exploser les forces qui progressent dans votre direction en Afrique du Nord. La franchise Call of Duty® revient avec Call of Duty®: Vanguard, développé par Sledgehammer Games, où les joueurs seront plongés dans la Seconde Guerre mondiale, au milieu de combats sanglants et, grande première, aux 4 coins du monde.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwe2a87179/images/high-res/114879.jpg",
+            "note": 6,
+            "genre": "FPS",
+            "prix": 39.99
+        },
+        {
+            "id": 12,
+            "titre": "Grand Theft Auto V",
+            "description": "Avec le monde ouvert le plus vivant, le plus dynamique et le plus vaste à ce jour, Grand Theft Auto V mélange narration et gameplay de façon totalement inédite en vous permettant de prendre le contrôle des trois personnages principaux, quand vous le souhaitez, pour ne manquer aucun détail de leur histoire.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw46397021/images/high-res/120648.jpg",
+            "note": 4,
+            "genre": "FPS",
+            "prix": 19.99
+        },
+        {
+            "id": 13,
+            "titre": "FIFA 23",
+            "description": "EA SPORTS™ FIFA 23 apporte encore plus d’action et de réalisme sur le terrain dans The World’s Game* (* Le Jeu Universel) grâce aux avancées de la technologie HyperMotion2 qui propose deux fois plus de captures de mouvements pour créer une animation plus réaliste que jamais à chaque match. Disputez les plus grandes compétitions de football avec les Coupes du Monde de la FIFA™ féminine et masculine. Et, pour la toute première fois, vous pourrez, pendant toute la saison de FIFA 23, défendre les couleurs de clubs féminins avec des animations HyperMotion2 dédiées.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw64208c2c/images/high-res/124274.jpg",
+            "note": 9,
+            "genre": "Sport",
+            "prix": 79.99
+        },
+        {
+            "id": 14,
+            "titre": "PGA 23",
+            "description": "Parcourez les terrains avec plus de style dans PGA TOUR 2K23. Mettez vos talents à l'épreuve et affichez votre style sur le PGA TOUR pour devenir le prochain champion FedExCup. Affrontez les autres pros du TOUR avec votre MyPLAYER et créez de nouvelles rivalités. Pour la première fois, des joueurs pros masculins et féminins, y compris Tiger Woods, sont disponibles pour des parties en ligne et en local ! PGA TOUR 2K23 comprend de nombreux parcours sous licence, dont East Lake Golf Club, St. George’s Golf and Country Club, TPC Scottsdale, et TPC Sawgrass, pour n'en citer que quelques-uns.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw363d9924/images/high-res/125294.jpg",
+            "note": 9,
+            "genre": "Sport",
+            "prix": 69.99
+        },
+        {
+            "id": 15,
+            "titre": "Matchpoint Tennis Championships Legends Edition",
+            "description": "Matchpoint – Tennis Championships modernise le tennis, vivez une expérience fidèle des courts de tennis, qui s’appuie sur un mode carrière riche et un système de matchmaking unique. Le jeu met l’accent sur le réalisme tactique, le positionnement et la visée, permettant au joueur de déplacer sa superstar avec précision pour tirer le meilleur parti de ses tirs. Matchpoint - Tennis Championships combine des animations de personnages fluides, une physique de balle réaliste, et un contrôle amélioré des joueurs pour reproduire à l’identique le rythme de jeu. Chaque swing et chaque frappe est unique, et donne une sensation de satisfaction.",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw382a8bb9/images/high-res/119964.jpg",
+            "note": 9,
+            "genre": "Sport",
+            "prix": 49.99
+        },
+        {
+            "id": 16,
+            "titre": "Winter Games 2023",
+            "description": "Vous n’avez pas été sélectionné aux Jeux Olympiques ? Devenez le champion sur votre écran !",
+            "affiche": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dw9fc61c84/images/high-res/124227.jpg",
+            "note": 6,
+            "genre": "Sport",
+            "prix": 29.99
+        }             
+    ]
+}
